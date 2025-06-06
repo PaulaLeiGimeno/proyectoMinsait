@@ -1,0 +1,7 @@
+C:\Users\ashin\Desktop\cosa de programacion\cambiarNombreAntesDeEnviar\bin\Debug\cambiarNombreAntesDeEnviar.exe.config
+C:\Users\ashin\Desktop\cosa de programacion\cambiarNombreAntesDeEnviar\bin\Debug\cambiarNombreAntesDeEnviar.exe
+C:\Users\ashin\Desktop\cosa de programacion\cambiarNombreAntesDeEnviar\bin\Debug\cambiarNombreAntesDeEnviar.pdb
+C:\Users\ashin\Desktop\cosa de programacion\cambiarNombreAntesDeEnviar\obj\Debug\cambiarNombreAntesDeEnviar.csproj.AssemblyReference.cache
+C:\Users\ashin\Desktop\cosa de programacion\cambiarNombreAntesDeEnviar\obj\Debug\cambiarNombreAntesDeEnviar.csproj.CoreCompileInputs.cache
+C:\Users\ashin\Desktop\cosa de programacion\cambiarNombreAntesDeEnviar\obj\Debug\cambiarNombreAntesDeEnviar.exe
+C:\Users\ashin\Desktop\cosa de programacion\cambiarNombreAntesDeEnviar\obj\Debug\cambiarNombreAntesDeEnviar.pdb

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashin\\Desktop\\cosa de programacion\\cambiarNombreAntesDeEnviar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94F2CA5A-6255-4257-A439-C60EAFCC6A0C}|cambiarNombreAntesDeEnviar.csproj|c:\\users\\ashin\\desktop\\cosa de programacion\\cambiarnombreantesdeenviar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F2CA5A-6255-4257-A439-C60EAFCC6A0C}|cambiarNombreAntesDeEnviar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F2CA5A-6255-4257-A439-C60EAFCC6A0C}|cambiarNombreAntesDeEnviar.csproj|C:\\Users\\ashin\\Desktop\\cosa de programacion\\cambiarNombreAntesDeEnviar\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F2CA5A-6255-4257-A439-C60EAFCC6A0C}|cambiarNombreAntesDeEnviar.csproj|solutionrelative:evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F2CA5A-6255-4257-A439-C60EAFCC6A0C}|cambiarNombreAntesDeEnviar.csproj|C:\\Users\\ashin\\Desktop\\cosa de programacion\\cambiarNombreAntesDeEnviar\\organizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F2CA5A-6255-4257-A439-C60EAFCC6A0C}|cambiarNombreAntesDeEnviar.csproj|solutionrelative:organizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F2CA5A-6255-4257-A439-C60EAFCC6A0C}|cambiarNombreAntesDeEnviar.csproj|C:\\Users\\ashin\\Desktop\\cosa de programacion\\cambiarNombreAntesDeEnviar\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F2CA5A-6255-4257-A439-C60EAFCC6A0C}|cambiarNombreAntesDeEnviar.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Organizadores.cs",
+              "DocumentMoniker": "C:\\Users\\ashin\\Desktop\\cosa de programacion\\cambiarNombreAntesDeEnviar\\Organizadores.cs",
+              "RelativeDocumentMoniker": "Organizadores.cs",
+              "ToolTip": "C:\\Users\\ashin\\Desktop\\cosa de programacion\\cambiarNombreAntesDeEnviar\\Organizadores.cs",
+              "RelativeToolTip": "Organizadores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T00:12:14.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\ashin\\Desktop\\cosa de programacion\\cambiarNombreAntesDeEnviar\\Usuario.cs",
+              "RelativeDocumentMoniker": "Usuario.cs",
+              "ToolTip": "C:\\Users\\ashin\\Desktop\\cosa de programacion\\cambiarNombreAntesDeEnviar\\Usuario.cs",
+              "RelativeToolTip": "Usuario.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADgvw0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T00:08:53.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\ashin\\Desktop\\cosa de programacion\\cambiarNombreAntesDeEnviar\\Evento.cs",
+              "RelativeDocumentMoniker": "Evento.cs",
+              "ToolTip": "C:\\Users\\ashin\\Desktop\\cosa de programacion\\cambiarNombreAntesDeEnviar\\Evento.cs",
+              "RelativeToolTip": "Evento.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T23:44:23.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashin\\Desktop\\cosa de programacion\\cambiarNombreAntesDeEnviar\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ashin\\Desktop\\cosa de programacion\\cambiarNombreAntesDeEnviar\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwH8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:02:55.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
